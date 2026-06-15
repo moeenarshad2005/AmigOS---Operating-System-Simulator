@@ -36,3 +36,7 @@ There are 20 tasks split into three categories. Foreground tasks need user input
 How to Build and Run
 
 Install GCC and make, then run "make" inside the project folder. Launch the OS with "./OS 2048 256000 8" where the three numbers are RAM in MB, HDD in MB, and number of CPU cores. Type a number from 1 to 20 to launch any task. Type "exit" inside a task to go back to the menu. Type "shutdown" to close AmigOS.
+
+License
+
+Academic project - FAST-NUCES CF Campus, Spring 2026
